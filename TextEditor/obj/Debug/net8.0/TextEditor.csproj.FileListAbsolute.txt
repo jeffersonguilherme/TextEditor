@@ -1,0 +1,14 @@
+C:\Users\jeffe\OneDrive\Documentos\GitHub\TextEditor\TextEditor\bin\Debug\net8.0\TextEditor.exe
+C:\Users\jeffe\OneDrive\Documentos\GitHub\TextEditor\TextEditor\bin\Debug\net8.0\TextEditor.deps.json
+C:\Users\jeffe\OneDrive\Documentos\GitHub\TextEditor\TextEditor\bin\Debug\net8.0\TextEditor.runtimeconfig.json
+C:\Users\jeffe\OneDrive\Documentos\GitHub\TextEditor\TextEditor\bin\Debug\net8.0\TextEditor.dll
+C:\Users\jeffe\OneDrive\Documentos\GitHub\TextEditor\TextEditor\bin\Debug\net8.0\TextEditor.pdb
+C:\Users\jeffe\OneDrive\Documentos\GitHub\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Documentos\GitHub\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\GitHub\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Documentos\GitHub\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\GitHub\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.dll
+C:\Users\jeffe\OneDrive\Documentos\GitHub\TextEditor\TextEditor\obj\Debug\net8.0\refint\TextEditor.dll
+C:\Users\jeffe\OneDrive\Documentos\GitHub\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.pdb
+C:\Users\jeffe\OneDrive\Documentos\GitHub\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.genruntimeconfig.cache
+C:\Users\jeffe\OneDrive\Documentos\GitHub\TextEditor\TextEditor\obj\Debug\net8.0\ref\TextEditor.dll
