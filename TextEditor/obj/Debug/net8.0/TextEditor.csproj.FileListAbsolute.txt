@@ -12,3 +12,4 @@ C:\Users\jeffe\OneDrive\Documentos\GitHub\TextEditor\TextEditor\obj\Debug\net8.0
 C:\Users\jeffe\OneDrive\Documentos\GitHub\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.pdb
 C:\Users\jeffe\OneDrive\Documentos\GitHub\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.genruntimeconfig.cache
 C:\Users\jeffe\OneDrive\Documentos\GitHub\TextEditor\TextEditor\obj\Debug\net8.0\ref\TextEditor.dll
+C:\Users\jeffe\OneDrive\Documentos\GitHub\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.sourcelink.json
